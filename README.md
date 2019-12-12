@@ -1,4 +1,4 @@
-# CCTV and lock/unlock door automatically using Raspberry Pi 3 B+
+# CCTV and Auto (un)locking door 
 using Raspberry Pi 3, make CCTV and control door automatically 
 1. Module
  - Raspberry Pi 3 B+
