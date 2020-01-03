@@ -1,0 +1,7 @@
+## Raspberry Pi 3+ CCTV ignore file ##
+
+# Iamge file
+*.jpg
+
+# Init Shell Scrpit and non-background Shell Script
+#unuse-shell-script/**/*.*
